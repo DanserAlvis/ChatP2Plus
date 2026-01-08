@@ -1,4 +1,4 @@
-# 🚀 ChatP2P - Mensajería Segura y Transferencia de Archivos
+# 🚀 ChatP2Plus - Mensajería Segura y Transferencia de Archivos
 
 Una aplicación de escritorio moderna, privada y descentralizada construida con **Go (Backend)** y **React (Frontend)** utilizando el framework [Wails](https://wails.io/).
 <img width="1007" height="767" alt="image" src="https://github.com/user-attachments/assets/5fc0ea88-cfd3-4b03-a69a-bb8c749c36fe" />
